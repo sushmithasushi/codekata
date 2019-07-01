@@ -1,2 +1,2 @@
-x,y=map(int,input().split())
-print(x**y)
+x,z=map(int,input().split())
+print(x**z)
