@@ -1,5 +1,5 @@
 n=int(input())
-arr=list(map(int,input().split()[:n]))
-arr.sort()
-leng=int((len(arr))/2)
+b=list(map(int,input().split()[:n]))
+b.sort()
+leng=int((len(b))/2)
 print(arr[leng])
