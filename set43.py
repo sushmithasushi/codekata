@@ -1,2 +1,2 @@
-s=input()
-print(s.count(" "))
+sSS=input()
+print(sSS.count(" "))
