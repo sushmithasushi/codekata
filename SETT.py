@@ -1,2 +1,2 @@
-xxx=int(input())
-print(xxx+1)
+xsx=int(input())
+print(xsx+1)
