@@ -1,4 +1,5 @@
-n,m=map(int,input().split())
+n,mm=map(int,input().split())
+m=mm
 l=list(map(int,input().split()[:n]))
 l.sort()
 for i in l:
